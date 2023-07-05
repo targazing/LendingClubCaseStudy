@@ -1,52 +1,24 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+### by Tarini Iyengar & Sony Jaiswal, C53 AIML EPGP
+> To analyze a given loan dataset of the Lending Club and make recommendations to a loan officer on what to look out for in the future while approving loans
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Approach](#approach)
+* [Analysis](#analysis)
+* [Contact](#contact)
 
-<!-- You can include any other section that is pertinent to your problem -->
+## Approach
+- We implemented our learnings from the previous modules to date: EDA, Git and data handling
+- We were given a huge data set and we set off by understanding the data and what would make sense to achieve the outcome
+- We made informed decisions on what data to keep, what to drop, what to impute and what to clean up.
+- We analyzed this modified dataset to observe patterns and eventually make recommendations.
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Analysis
+- The loan officer should show better diligence in verifying loans
+- He/ she should stick to the rules of the grades defined by Lending Club. For instance, do not give loans beyond 75% of the grade value for people on Rent or having mortgages on their properties
+- If the investors are not covering the loan entirely, increase the loan rate by a few percentage points, maybe 2-5 pp.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+- Created by [@targazing] - feel free to contact us @ emailtarini@gmail.com, mail4sony@gmail.com !
+- We enjoyed this process and thank Upgrad for this opportunity.
